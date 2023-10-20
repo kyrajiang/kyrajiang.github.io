@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>tel:(025)1234567</p>
-    <p>mail: kyra20002022@163.com</p>
-    <p>Nanjin, CN</p>
+    <p>(025)1234567</p>
+    <p> kyra20002022@163.com</p>
+    <p>Nanjing, CN</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
